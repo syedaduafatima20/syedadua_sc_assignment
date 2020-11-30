@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Scientific_Calculator/src"/>
+	<classpathentry kind="lib" path="Scientific_Calculator/dist/Scientific_Calculator.jar"/>
+	<classpathentry kind="output" path="Scientific_Calculator/build/classes"/>
+</classpath>
